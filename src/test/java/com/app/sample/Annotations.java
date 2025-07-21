@@ -12,6 +12,7 @@ import org.testng.annotations.Test;
 
 public class Annotations {
 	@BeforeSuite
+	//Test changes
 	public  void beforesuit()
 	{
 		System.out.println("Before suite");
