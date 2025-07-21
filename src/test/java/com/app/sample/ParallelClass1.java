@@ -21,5 +21,10 @@ public class ParallelClass1 {
 		System.out.println(Thread.currentThread().getId());
 		System.out.println("test3");
 	}
-
+	@Test
+	public void test7()
+	{
+		System.out.println(Thread.currentThread().getId());
+		System.out.println("test3");
+	}
 }
